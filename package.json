@@ -1,0 +1,22 @@
+{
+  "name": "go-programming",
+  "version": "1.0.0",
+  "description": "This is the compendium material for Todd McLeod's course Learn How To Code: Google's Go (golang) Programming Language, available online at [GreaterCommons.com](https://greatercommons.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoesToEleven/go-programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoesToEleven/go-programming/issues"
+  },
+  "homepage": "https://github.com/GoesToEleven/go-programming#readme",
+  "dependencies": {
+    "koa": "^2.8.1"
+  }
+}
